@@ -5,12 +5,21 @@
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: 35px;
+	margin-bottom: 35px;
 	padding: 5px 15px 15px 15px;
+}
+
+#filler-bottom{
+	margin-bottom: 40px;
 }
 
 #header-nav {
 	border-radius: 0;
 	background: #000060;
+}
+
+#menu-items {
+	background: #1c20ac;
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
@@ -30,6 +39,12 @@
 	font-size: 18px;
 }
 
-#menu-items a:hover {
-  background: #fff;
+#menu-items a:visited {
+  color: #fff;
 }
+
+#menu-items a:hover {
+  color: #000020;
+  background: #a0a0a0;
+}
+
