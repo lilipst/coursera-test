@@ -1,0 +1,50 @@
+
+.menu-content {
+	position: relative;
+	background-color: #a0a0a0;
+	font-size: 1.2em;
+	margin-top: 15px;
+	height: 700px;
+	padding: 15px;
+}
+.menu-content a {
+	position: absolute;
+	bottom: 10px;
+	right: 10px;
+}
+
+#header-nav {
+	border-radius: 0;
+	background: #000060;
+}
+
+#menu-items {
+	background: #1c20ac;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #fff;
+}
+
+#company-name {
+	font-size: 30px;
+	color: #fff;
+}
+
+.navbar-default .navbar-nav > li > a {
+	color: #fff;
+}
+
+#menu-items a {
+	font-size: 18px;
+}
+
+#menu-items a:visited {
+  color: #fff;
+}
+
+#menu-items a:hover {
+  color: #000020;
+  background: #a0a0a0;
+}
+
